@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.json",
+  "exclude": ["node_modules", "dist", "src/**/*.spec.ts"],
+  "typedocOptions": {
+    "name": "Utils. The utility library documentation",
+    "entryPoints": ["src/main.ts"],
+    "out": "docs",
+    "theme": "default"
+  }
+}
