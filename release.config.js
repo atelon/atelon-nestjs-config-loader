@@ -8,7 +8,7 @@ module.exports = {
     }],
     "@semantic-release/npm",
     ["@semantic-release/git", {
-      "assets": ["CHANGELOG.md", "package.json", "package-lock.json", "npm-shrinkwrap.json"],
+      "assets": ["CHANGELOG.md", "package.json", "npm-shrinkwrap.json"],
     }],
     "@semantic-release/github",
   ]

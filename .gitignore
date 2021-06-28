@@ -38,3 +38,6 @@ lerna-debug.log*
 # ts
 dist/tsconfig.build.tsbuildinfo
 
+# work files
+package-lock.json
+
