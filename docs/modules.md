@@ -24,4 +24,4 @@ The function loads custom env files based on NODE_ENV
 
 **Returns:** *Record*<string, any\>
 
-Defined in: common/config-loader.ts:12
+Defined in: [common/config-loader.ts:12](https://github.com/atelon/atelon-nestjs-config-loader/blob/160b9a9/src/common/config-loader.ts#L12)

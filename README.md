@@ -1,6 +1,6 @@
-# Utils
+# Nestjs-config-loader
 
-The generic utility library.
+The config loader for NestJS.
 
 ## Table of Contents
 
@@ -36,4 +36,4 @@ Use Visual Studio Code to run command `Run Task -> test` after you finish to mak
 
 ## License
 
-Utils is [MIT licensed](LICENSE).
+Nestjs-config-loader is [MIT licensed](LICENSE).
