@@ -1,18 +1,18 @@
-[Utils. The utility library documentation](README.md) / Exports
+Nestjs-config-loader. NestJS module provides dynamic config load.
 
-# Utils. The utility library documentation
+# Nestjs-config-loader. NestJS module provides dynamic config load.
 
 ## Table of contents
 
 ### Functions
 
-- [configLoader](modules.md#configloader)
+- [configLoader](README.md#configloader)
 
 ## Functions
 
 ### configLoader
 
-▸ **configLoader**(`options`: ConfigLoaderOptions): *Record*<string, any\>
+▸ **configLoader**(`options`): `Record`<`string`, `any`\>
 
 The function loads custom env files based on NODE_ENV
 
@@ -20,8 +20,12 @@ The function loads custom env files based on NODE_ENV
 
 | Name | Type |
 | :------ | :------ |
-| `options` | ConfigLoaderOptions |
+| `options` | `ConfigLoaderOptions` |
 
-**Returns:** *Record*<string, any\>
+#### Returns
 
-Defined in: [common/config-loader.ts:12](https://github.com/atelon/atelon-nestjs-config-loader/blob/160b9a9/src/common/config-loader.ts#L12)
+`Record`<`string`, `any`\>
+
+#### Defined in
+
+[common/config-loader.ts:12](https://github.com/atelon/atelon-nestjs-config-loader/blob/bbcc0a2/src/common/config-loader.ts#L12)
