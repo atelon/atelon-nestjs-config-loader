@@ -2,8 +2,9 @@
   "extends": "./tsconfig.json",
   "exclude": ["node_modules", "dist", "src/**/*.spec.ts"],
   "typedocOptions": {
-    "name": "Utils. The utility library documentation",
+    "name": "Nestjs-config-loader. NestJS module provides dynamic config load.",
     "entryPoints": ["src/main.ts"],
+    "readme": "none",
     "out": "docs",
     "theme": "default"
   }
