@@ -1,6 +1,6 @@
 {
   "name": "atelon-nestjs-config-loader",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "NestJS module provides dynamic config load",
   "author": "atelon",
   "private": false,
