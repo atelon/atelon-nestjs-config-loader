@@ -28,4 +28,4 @@ The function loads custom env files based on NODE_ENV
 
 #### Defined in
 
-[common/config-loader.ts:12](https://github.com/atelon/atelon-nestjs-config-loader/blob/45a7cfb/src/common/config-loader.ts#L12)
+[common/config-loader.ts:12](https://github.com/atelon/atelon-nestjs-config-loader/blob/ec1d133/src/common/config-loader.ts#L12)
