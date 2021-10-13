@@ -27,7 +27,6 @@
     "url": "https://github.com/atelon/atelon-nestjs-config-loader.git"
   },
   "dependencies": {
-    "detect-secrets": "1.0.6",
     "js-yaml": "4.1.0"
   },
   "devDependencies": {
@@ -44,6 +43,7 @@
     "@typescript-eslint/eslint-plugin": "5.0.0",
     "@typescript-eslint/parser": "5.0.0",
     "cz-conventional-changelog": "3.3.0",
+    "detect-secrets": "1.0.6",
     "eslint": "8.0.0",
     "eslint-config-airbnb-typescript": "14.0.1",
     "eslint-config-prettier": "8.3.0",
