@@ -27,8 +27,8 @@
     "url": "https://github.com/atelon/atelon-nestjs-config-loader.git"
   },
   "dependencies": {
-    "detect-secrets": "^1.0.6",
-    "js-yaml": "^4.1.0"
+    "detect-secrets": "1.0.6",
+    "js-yaml": "4.1.0"
   },
   "devDependencies": {
     "@commitlint/cli": "13.2.1",
